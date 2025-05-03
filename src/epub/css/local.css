@@ -45,3 +45,7 @@ p span.i5{
 	padding-left: 6em;
 	text-indent: -1em;
 }
+
+p.italics{
+	font-style: italic;
+}
