@@ -104,3 +104,9 @@ section > header [epub|type~="epigraph"] + *{
 #dedication blockquote + p{
 	margin-top: 1.5em;
 }
+
+/* Heart image in "The Cowboy off Guard */
+#the-cowboy-off-guard img{
+	height: 1em;
+	vertical-align: middle;
+}
