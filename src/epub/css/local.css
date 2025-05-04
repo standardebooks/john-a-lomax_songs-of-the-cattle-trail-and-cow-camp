@@ -49,3 +49,8 @@ p span.i5{
 p.italics{
 	font-style: italic;
 }
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
