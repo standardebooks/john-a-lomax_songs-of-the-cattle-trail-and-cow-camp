@@ -94,3 +94,13 @@ section > header [epub|type~="epigraph"] + *{
 	}
 }
 /* End epigraphs in section headers */
+
+/* Dedication */
+#dedication ul{
+	list-style-type: none;
+	margin: .5em .5em .5em -1em;
+}
+
+#dedication blockquote + p{
+	margin-top: 1.5em;
+}
