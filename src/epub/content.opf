@@ -108,13 +108,13 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="epigraph.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
-		<itemref idref="cowboy-types.xhtml"/>
-		<itemref idref="cowboy-yarns.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="cowboy-yarns.xhtml"/>
 		<itemref idref="the-cowboy-off-guard.xhtml"/>
+		<itemref idref="cowboy-types.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
