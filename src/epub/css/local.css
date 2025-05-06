@@ -105,3 +105,10 @@ section > header [epub|type~="epigraph"]{
 	height: 1em;
 	vertical-align: middle;
 }
+
+/* Right align */
+[epub|type~="z3998:poem"] footer,
+[epub|type~="z3998:poem"] footer p{
+	margin-top: 1em;
+	text-align: right;
+}
