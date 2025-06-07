@@ -131,14 +131,24 @@ section[epub|type~="epigraph"] > *{
 /* End full-page epigraphs */
 
 /* Dedication */
-#dedication ul{
-	list-style-type: none;
-	margin: .5em .5em .5em -1em;
+section[epub|type~="dedication"]{
+	margin-top: 20vh;
 }
 
-#dedication blockquote + p{
-	margin-top: 1.5em;
+#dedication ul{
+	list-style-type: none;
+	padding: 0;
 }
+
+#dedication ul li + li{
+	margin: .5em 0;
+}
+
+#dedication ul li p{
+	padding-left: 1em;
+	text-indent: -1em;
+}
+/* End dedication*/
 
 /* Heart image in "The Cowboy Off Guard */
 #the-cowboy-off-guard img{
