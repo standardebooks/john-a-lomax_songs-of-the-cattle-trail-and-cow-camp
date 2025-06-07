@@ -150,11 +150,11 @@ section[epub|type~="dedication"]{
 }
 /* End dedication*/
 
-/* Heart image in "The Cowboy Off Guard */
-#the-cowboy-off-guard img{
-	height: 1em;
-	vertical-align: middle;
+/* Heart image */
+#the-cowboys-valentine img{
+	height: .75em;
 }
+
 
 /* Right align */
 footer,
