@@ -72,7 +72,7 @@ span.elision{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] i{
+[epub|type~="epigraph"] em{
 	font-style: normal;
 }
 
@@ -148,18 +148,17 @@ section[epub|type~="dedication"]{
 	padding-left: 1em;
 	text-indent: -1em;
 }
-/* End dedication*/
+/* End dedication */
 
 /* Heart image */
 #the-cowboys-valentine img{
 	height: .75em;
 }
 
-
 /* Right align */
 footer,
-[epub|type~="z3998:poem"] footer,
-[epub|type~="z3998:poem"] footer p{
+[epub|type~="z3998:song"] footer,
+[epub|type~="z3998:song"] footer p{
 	margin-top: 1em;
 	text-align: right;
 }
