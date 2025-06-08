@@ -115,9 +115,9 @@
 		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
-		<itemref idref="cowboy-yarns.xhtml"/>
-		<itemref idref="the-cowboy-off-guard.xhtml"/>
-		<itemref idref="cowboy-types.xhtml"/>
+		<itemref idref="part-1.xhtml"/>
+		<itemref idref="part-2.xhtml"/>
+		<itemref idref="part-3.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
