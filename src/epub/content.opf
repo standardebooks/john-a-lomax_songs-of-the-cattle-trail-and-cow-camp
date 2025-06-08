@@ -48,6 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21723</dc:source>
 		<dc:source>https://archive.org/details/songscattletrai01phelgoog</dc:source>
+		<meta property="se:production-notes">In "At a Cowboy Dance" there is one instance of "cigaret" which was not modernized due to it being likely being a case of t-glottalization.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-a-lomax_songs-of-the-cattle-trail-and-cow-camp</meta>
