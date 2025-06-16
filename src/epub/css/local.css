@@ -148,6 +148,20 @@ section[epub|type~="dedication"]{
 	padding-left: 1em;
 	text-indent: -1em;
 }
+
+#dedication > blockquote[epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	margin-bottom: 3em;
+	max-width: 80%;
+	text-align: initial;
+}
+
+@supports(display: table){
+	#dedication > blockquote[epub|type~="epigraph"]{
+		display: table;
+	}
+}
 /* End dedication */
 
 /* Heart image */
