@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-a-lomax/songs-of-the-cattle-trail-and-cow-camp</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-06-16T19:36:17Z</dc:date>
+		<meta property="dcterms:modified">2025-06-16T19:36:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,17 +40,17 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">A collection of cowboy poetry, collected by folklorist John A. Lomax.</dc:description>
+		<dc:description id="description">A collection of cowboy poetry collected by folklorist John A. Lomax.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Although not always respected as serious poetry, folk songs and poems like the ones in &lt;i&gt;Songs of the Cattle Trail and Cow Camp&lt;/i&gt; represent a long tradition of oral transmition of verse narrative, distinct from the more formal and “scholarly” poetical compositions. The poems in this collection speak about love, honor, friendship and the lives of cowboys in general&lt;/p&gt;
-			&lt;p&gt;This work was produced by musicologist and folklorist &lt;a href="https://standardebooks.org/ebooks/john-a-lomax"&gt;John A. Lomax&lt;/a&gt;, who did much to preserve traditional American songs. The poems in this production were mostly obtained from recitations by informants in the American west.&lt;/p&gt;
+			&lt;p&gt;Although not always respected as serious poetry, folk songs and poems like the ones in &lt;i&gt;Songs of the Cattle Trail and Cow Camp&lt;/i&gt; represent a long tradition of oral transmission of verse narrative, distinct from more formal and “scholarly” poetical compositions. The poems in this collection speak about love, honor, friendship, and the lives of cowboys.&lt;/p&gt;
+			&lt;p&gt;This collection was produced by musicologist and folklorist &lt;a href="https://standardebooks.org/ebooks/john-a-lomax"&gt;John A. Lomax&lt;/a&gt;, who did much to preserve traditional American songs. The poems in this production were mostly obtained from recitations by interviewees in the American west.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21723</dc:source>
 		<dc:source>https://archive.org/details/songscattletrai01phelgoog</dc:source>
 		<meta property="se:production-notes">In "At a Cowboy Dance" there is one instance of "cigaret" which was not modernized due to it being likely being a case of t-glottalization.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">26924</meta>
+		<meta property="se:reading-ease.flesch">72.09</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-a-lomax_songs-of-the-cattle-trail-and-cow-camp</meta>
 		<dc:creator id="author">John A. Lomax</dc:creator>
 		<meta property="file-as" refines="#author">Lomax, John A.</meta>
@@ -85,6 +85,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
