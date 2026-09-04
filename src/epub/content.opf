@@ -31,9 +31,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Songs of the Cattle Trail and Cow Camp</dc:title>
 		<meta property="file-as" refines="#title">Songs of the Cattle Trail and Cow Camp</meta>
-		<dc:subject id="subject-1">Cowboys -- Songs and music</dc:subject>
-		<dc:subject id="subject-2">Songs, English -- West (U.S.) -- Texts</dc:subject>
-		<dc:subject id="subject-3">Ballads, English -- West (U.S.) -- Texts</dc:subject>
+		<dc:subject id="subject-1">Cowboys--Songs and music</dc:subject>
+		<dc:subject id="subject-2">Songs, English--West (U.S.)--Texts</dc:subject>
+		<dc:subject id="subject-3">Ballads, English--West (U.S.)--Texts</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
