@@ -57,7 +57,7 @@
 		<dc:creator id="author">John A. Lomax</dc:creator>
 		<meta property="file-as" refines="#author">Lomax, John A.</meta>
 		<meta property="schema:alternateName" refines="#author">John Avery Lomax</meta>
-		<link href="https://en.wikipedia.org/wiki/John_A._Lomax" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/John_Lomax" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79148914.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
